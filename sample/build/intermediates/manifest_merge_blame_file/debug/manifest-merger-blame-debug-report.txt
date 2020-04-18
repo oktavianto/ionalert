@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="id.ionbit.ionalertsample"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:6:5-18:19
+12        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+12-->[androidx.core:core:1.1.0] C:\Users\Nothy\.gradle\caches\transforms-2\files-2.1\9a561d8b045aa4b5db9a341e97c354ca\core-1.1.0\AndroidManifest.xml:24:18-86
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:8:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:7:9-41
+16        android:testOnly="true"
+17        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" >
+17-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:9:9-74
+18        <activity
+18-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:11:9-17:20
+19            android:name="id.ionbit.ionalertsample.SampleActivity"
+19-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:11:19-73
+20            android:label="@string/app_name" >
+20-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:12:19-51
+21            <intent-filter>
+21-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:13:13-16:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:14:17-68
+22-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:15:17-76
+24-->C:\Users\Nothy\Documents\Android Project's\ionalert\sample\src\main\AndroidManifest.xml:15:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
