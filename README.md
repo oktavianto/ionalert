@@ -6,6 +6,12 @@ A beautiful design Android Alert Dialog, alternative of [Sweet Alert Dialog](htt
 
 ## Screenshot
 
+| Screenshot | Screenshot |
+|--|--|
+| ![enter image description here](https://raw.githubusercontent.com/oktavianto/ionalert/master/screenshot/1.jpg) | ![enter image description here](https://raw.githubusercontent.com/oktavianto/ionalert/master/screenshot/2.jpg) |
+| ![enter image description here](https://raw.githubusercontent.com/oktavianto/ionalert/master/screenshot/3.jpg) | ![enter image description here](https://raw.githubusercontent.com/oktavianto/ionalert/master/screenshot/4.jpg) |
+| ![enter image description here](https://raw.githubusercontent.com/oktavianto/ionalert/master/screenshot/5.jpg) | ![enter image description here](https://raw.githubusercontent.com/oktavianto/ionalert/master/screenshot/6.jpg) |
+
 ## Gradle
 
 Add it in your root build.gradle at the end of repositories:
