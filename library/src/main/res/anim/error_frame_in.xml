@@ -11,7 +11,7 @@
         android:duration="400"/>
 
     <sweet:id.ionbit.ionalert.Rotate3dAnimation
-        sweet:ion_rollType="x"
+        sweet:ion_rollType="ion_x"
         sweet:ion_fromDeg="100"
         sweet:ion_toDeg="0"
         sweet:ion_pivotX="50%"

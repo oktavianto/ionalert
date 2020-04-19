@@ -6450,15 +6450,15 @@
         <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
     </declare-styleable>
     <declare-styleable name="Rotate3D">
-        <attr format="enum" name="rollType">
-            <enum name="x" value="0"/>
-            <enum name="y" value="1"/>
-            <enum name="z" value="2"/>
+        <attr format="enum" name="ion_rollType">
+            <enum name="ion_x" value="0"/>
+            <enum name="ion_y" value="1"/>
+            <enum name="ion_z" value="2"/>
         </attr>
-        <attr format="float" name="fromDeg"/>
-        <attr format="float" name="toDeg"/>
-        <attr format="fraction" name="pivotX"/>
-        <attr format="fraction" name="pivotY"/>
+        <attr format="float" name="ion_fromDeg"/>
+        <attr format="float" name="ion_toDeg"/>
+        <attr format="fraction" name="ion_pivotX"/>
+        <attr format="fraction" name="ion_pivotY"/>
     </declare-styleable>
     <declare-styleable name="ScrimInsetsFrameLayout">
     <attr format="color|reference" name="insetForeground"/>

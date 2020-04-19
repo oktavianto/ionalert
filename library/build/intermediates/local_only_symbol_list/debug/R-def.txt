@@ -9,11 +9,11 @@ anim success_mask_layout
 attr alertDialogContentTextColor
 attr alertDialogDark
 attr alertDialogTextColor
-attr? fromDeg
-attr? pivotX
-attr? pivotY
-attr? rollType
-attr? toDeg
+attr? ion_fromDeg
+attr? ion_pivotX
+attr? ion_pivotY
+attr? ion_rollType
+attr? ion_toDeg
 color blue_btn_bg_color
 color blue_btn_bg_pressed_color
 color button_text_color
@@ -58,6 +58,9 @@ id custom_view_container
 id edit_text
 id error_frame
 id error_x
+id ion_x
+id ion_y
+id ion_z
 id loading
 id progress_dialog
 id spin_kit
@@ -65,9 +68,6 @@ id success_frame
 id success_x
 id title_text
 id warning_frame
-id x
-id y
-id z
 layout alert_dialog
 string LOADING
 string app_name
@@ -76,4 +76,4 @@ string dialog_default_title
 string dialog_ok
 style alert_dialog_dark
 style alert_dialog_light
-styleable Rotate3D rollType fromDeg toDeg pivotX pivotY
+styleable Rotate3D ion_rollType ion_fromDeg ion_toDeg ion_pivotX ion_pivotY
