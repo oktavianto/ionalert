@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="Rotate3D">
-        <attr name="rollType" format="enum">
-            <enum name="x" value="0"/>
-            <enum name="y" value="1"/>
-            <enum name="z" value="2"/>
+        <attr name="ion_rollType" format="enum">
+            <enum name="ion_x" value="0"/>
+            <enum name="ion_y" value="1"/>
+            <enum name="ion_z" value="2"/>
         </attr>
-        <attr name="fromDeg" format="float" />
-        <attr name="toDeg" format="float" />
-        <attr name="pivotX" format="fraction"/>
-        <attr name="pivotY" format="fraction" />
+        <attr name="ion_fromDeg" format="float" />
+        <attr name="ion_toDeg" format="float" />
+        <attr name="ion_pivotX" format="fraction"/>
+        <attr name="ion_pivotY" format="fraction" />
     </declare-styleable>
 
     <attr name="alertDialogDark" format="reference"/>
