@@ -5,7 +5,7 @@ android {
     
 	defaultConfig {
 		applicationId "id.ionbit.ionalertsample"
-        minSdkVersion 21
+        minSdkVersion 16
         targetSdkVersion 29
 		versionCode 1
         versionName "1.0.0"
@@ -13,11 +13,6 @@ android {
 
     lintOptions {
         abortOnError false
-    }
-
-    compileOptions {
-        sourceCompatibility 1.8
-        targetCompatibility 1.8
     }
 
     buildTypes {
