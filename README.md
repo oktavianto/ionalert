@@ -183,7 +183,10 @@ Alert Content Text Size
 
     .setContentTextSize(int size)
 
- ## License
+## Support
+Supported by [Ionbit Indonesia - Professional App Development](https://ionbit.id)
+
+## License
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
