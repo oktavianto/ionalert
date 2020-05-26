@@ -1,6 +1,6 @@
 
 # ionalert - Android Alert Dialog
-[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0) ![Downloads](https://jitpack.io/v/oktavianto/ionalert/month.svg)
 
 A beautiful design Android Alert Dialog, alternative of [Sweet Alert Dialog](https://github.com/pedant/sweet-alert-dialog) based on [KAlertDialog](https://github.com/TutorialsAndroid/KAlertDialog) using MaterialComponent
 
